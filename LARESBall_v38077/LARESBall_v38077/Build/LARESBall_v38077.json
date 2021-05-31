@@ -1,0 +1,16 @@
+{
+"companyName": "enderesting",
+"productName": "Bunny Ball",
+"productVersion": "1.2.3",
+"dataUrl": "LARESBall_v38077.data.unityweb",
+"wasmCodeUrl": "LARESBall_v38077.wasm.code.unityweb",
+"wasmFrameworkUrl": "LARESBall_v38077.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#EBFABF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
